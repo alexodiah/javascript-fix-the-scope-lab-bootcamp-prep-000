@@ -5,8 +5,13 @@ function myAnimal() {
   }
  
  
+<<<<<<< HEAD
 function yourAnimal() {
   var animal = 'cat'
+=======
+function UNyourAnimal() {
+  const animal = 'cat'
+>>>>>>> b412a9995b48ebb486a1e45a35c5c312a0692812
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
